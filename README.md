@@ -32,11 +32,11 @@
 # Serpent Sting / Viper Sting
 ```
 #showtooltip
+#showtooltip
 /cleartarget [dead][help]
-/cast Serpent Sting
-/cast !Auto Shot
 /cast [nomod] Serpent Sting
 /cast [mod:alt] Viper Sting
+/cast !Auto Shot
 ```
 # Feign Death PvP
 ```
