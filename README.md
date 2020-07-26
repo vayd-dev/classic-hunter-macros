@@ -143,7 +143,7 @@
 # Shadowmeld / Prowl
 ```
 #showtooltip Shadowmeld
-/cast Shadowmeld
+/cast [nostealth] Shadowmeld
 /cast Prowl(Rank 1)
 ```
 # Mount / Cancelauras
