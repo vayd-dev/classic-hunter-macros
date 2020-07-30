@@ -124,7 +124,7 @@
 ```
 # 2h
 ```
-/equipslot 16 Lok'delar, Stave of the Ancient Keepers
+/equipslot 16 Ashkandi, Greatsword of the Brotherhood
 ```
 # Dual 1h's
 ```
