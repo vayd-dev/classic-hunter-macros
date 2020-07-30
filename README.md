@@ -38,6 +38,11 @@
 /cast [mod:alt] Viper Sting
 /cast !Auto Shot
 ```
+# Chain Eagle Eye
+```
+#showtooltip
+/cast !Eagle Eye
+```
 # Feign Death PvP
 ```
 #showtooltip Feign Death
