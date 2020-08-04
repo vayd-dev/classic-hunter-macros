@@ -13,6 +13,11 @@
 #showtooltip
 /cast [@mouseover, harm][] Hunter's Mark
 ```
+# Flare on Cursor
+```
+#showtooltip
+/cast [@cursor] Flare
+```
 # Scatter Shout Mouseover
 ```
 #showtooltip
