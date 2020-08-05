@@ -78,6 +78,14 @@
 /cancelaura Aspect of the Cheetah
 /cast !Aspect of the Monkey
 ```
+# Aimed Shot
+```
+#showtooltip Aimed Shot
+/Cast !Auto Shot
+/Cast Aimed Shot
+/cleartarget
+/targetlasttarget
+```
 # Multi-Shot
 ```
 #showtooltip Multi-Shot
