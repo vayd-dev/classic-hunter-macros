@@ -77,7 +77,7 @@
 /cancelaura Aspect of the Cheetah
 /cast !Aspect of the Monkey
 ```
-# Aimed Shot
+# Aimed Shot PvE
 ```
 #showtooltip Aimed Shot
 /Cast !Auto Shot
