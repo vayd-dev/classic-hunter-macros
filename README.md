@@ -6,7 +6,6 @@
 /cleartarget [dead][help]
 /targetenemy [noexists]
 /cast !Auto Shot
-/startattack [harm,nodead]
 ```
 # Hunter's Mark Mouseover
 ```
