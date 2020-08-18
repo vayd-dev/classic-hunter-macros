@@ -17,6 +17,12 @@
 #showtooltip
 /cast [@cursor] Flare
 ```
+# Aspect of the Cheetah Quick Cancel
+```
+#showtooltip Aspect of the Cheetah
+/cancelaura Aspect of the Cheetah
+/cast Aspect of the Cheetah
+```
 # Scatter Shout Mouseover
 ```
 #showtooltip
