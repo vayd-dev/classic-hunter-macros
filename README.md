@@ -58,7 +58,7 @@
 #showtooltip Feign Death
 /petpassive
 /stopattack
-/cast [combat] Feign Death
+/cast Feign Death
 /petpassive
 ```
 # Feign Death PvE (Trinket Swap)
@@ -66,7 +66,7 @@
 #showtooltip Feign Death
 /stopattack
 /petpassive
-/cast [combat] Feign Death
+/cast Feign Death
 /petpassive
 /equipslot 13 Royal Seal of Eldre'Thalas 
 /equipslot 14 Blackhand's Breadth
