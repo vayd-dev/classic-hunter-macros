@@ -102,7 +102,6 @@
 #showtooltip
 /cast Raptor Strike
 /cast Wing Clip
-/cast Mongoose Bite
 /startattack
 ```
 # Call Pet / Revive Pet / Mend Pet
